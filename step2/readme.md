@@ -1,2 +1,2 @@
-# Discovering the most essential protein coding biomarker by a novel multiple machine learning algorithm** 
+# Discovering the most essential protein coding biomarker by a novel multiple machine learning algorithm
 This code included evaluation of the importance of inputed each protein coding biomarker and comparison with other mainstream ensemble classification algorithms (SVM, RF, TREE). The area under the computing receiver operating characteristic (ROC) curve and accuracy were calculated to estimate the perfomence of different machine learning models. In addition, the specific hyperparameters and other information can be found in this code.
